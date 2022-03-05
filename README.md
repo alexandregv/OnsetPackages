@@ -4,3 +4,4 @@ Also check [awesome-onset](https://github.com/alexandregv/awesome-onset), an awe
 
 ## Packages
 - [pkg](https://github.com/alexandregv/onset-pkg): A package utility which allows you to start/stop/restart/list/show packages on your server.
+- [whitelist](https://github.com/alexandregv/onset-whitelist): A whitelist system, allowing only defined users to join your server.

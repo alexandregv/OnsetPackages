@@ -2,3 +2,6 @@
 	path = pkg
 	url = https://github.com/alexandregv/Onset-pkg
 	branch = master
+[submodule "whitelist"]
+	path = whitelist
+	url = https://github.com/alexandregv/onset-whitelist.git
